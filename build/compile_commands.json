@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_demo.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_demo.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_draw.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_draw.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_glfw.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_glfw.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_opengl3.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_opengl3.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_sdl2.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_sdl2.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_tables.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_tables.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_widgets.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_widgets.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/ext/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/callback_system.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/callback_system.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/callback_system.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/callback_system.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/camera_system.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/camera_system.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/camera_system.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/camera_system.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/common.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/common.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/common.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/common.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/components.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/components.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/components.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/components.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/main.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/main.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/main.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/physics_system.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/physics_system.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/physics_system.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/physics_system.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/render_system.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/render_system.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/render_system.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/render_system.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/render_system_hud.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/render_system_hud.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/render_system_hud.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/render_system_hud.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/render_system_init.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/render_system_init.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/render_system_init.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/render_system_init.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/tiny_ecs.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/tiny_ecs.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/tiny_ecs.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/tiny_ecs.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/tiny_ecs_registry.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/tiny_ecs_registry.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/tiny_ecs_registry.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/tiny_ecs_registry.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/world_init.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/world_init.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/world_init.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/world_init.cpp.o"
+},
+{
+  "directory": "/Users/yeonguchoe/Desktop/CPSC-427/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/yeonguchoe/Desktop/CPSC-427/src -I/Users/yeonguchoe/Desktop/CPSC-427/ext/stb_image -I/Users/yeonguchoe/Desktop/CPSC-427/ext/gl3w -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -I/opt/homebrew/Cellar/glfw/3.3.8/include -I/opt/homebrew/include/SDL2 -I/Users/yeonguchoe/Desktop/CPSC-427/ext/imgui -isystem /Users/yeonguchoe/Desktop/CPSC-427/ext/glm -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -o CMakeFiles/OrbitalStrike.dir/src/world_system.cpp.o -c /Users/yeonguchoe/Desktop/CPSC-427/src/world_system.cpp",
+  "file": "/Users/yeonguchoe/Desktop/CPSC-427/src/world_system.cpp",
+  "output": "CMakeFiles/OrbitalStrike.dir/src/world_system.cpp.o"
+}
+]
