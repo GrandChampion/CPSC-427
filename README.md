@@ -1,1 +1,1 @@
-# CPSC-427 Video Game Programming
+# CPSC-427 Video Game Programming Project
