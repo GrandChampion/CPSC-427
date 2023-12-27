@@ -1,3 +1,4 @@
 # CPSC-427 Video Game Programming Project
 
-![](trailer.mov)
+## Title: Orbital Strike
+### [Video Trailer](trailer.mp4)
