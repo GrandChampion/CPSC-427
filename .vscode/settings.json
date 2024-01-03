@@ -1,3 +1,4 @@
 {
-    "cmake.cmakePath": "/Applications/CMake.app/Contents/bin/cmake",
+    // "cmake.cmakePath": "/Applications/CMake.app/Contents/bin/cmake",
+    "cmake.cmakePath": "/opt/homebrew/bin/cmake",
 }
