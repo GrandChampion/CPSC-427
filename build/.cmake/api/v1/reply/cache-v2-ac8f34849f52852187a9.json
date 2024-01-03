@@ -131,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CMake.app/Contents/bin/cmake"
+			"value" : "/opt/homebrew/Cellar/cmake/3.28.1/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -143,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CMake.app/Contents/bin/cpack"
+			"value" : "/opt/homebrew/Cellar/cmake/3.28.1/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -155,7 +155,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CMake.app/Contents/bin/ctest"
+			"value" : "/opt/homebrew/Cellar/cmake/3.28.1/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CMake.app/Contents/share/cmake-3.28"
+			"value" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
