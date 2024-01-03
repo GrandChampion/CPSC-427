@@ -1,6 +1,4 @@
-# CPSC-427 Video Game Programming Project
-
-## Title: Orbital Strike
+# Orbital Strike
 
 <img width=700 src="result.gif">
 
